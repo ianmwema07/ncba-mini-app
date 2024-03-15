@@ -1,3 +1,3 @@
 <template>
-    <mr-page>about</mr-page>
+    <mr-page>Ian Test Applciation</mr-page>
 </template>

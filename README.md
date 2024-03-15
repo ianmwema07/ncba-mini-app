@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # template-base
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -44,3 +45,7 @@ pnpm build
 ```sh
 pnpm lint
 ```
+=======
+# ncba-mini-app
+NCBA Mini -app
+>>>>>>> f037968a5987b03eb58dc08ce5e557212dd3d6d6

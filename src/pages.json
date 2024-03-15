@@ -1,0 +1,23 @@
+{
+    "pages": [
+        {
+            "path": "pages/home/home",
+            "style": {
+                "navigationBarTitleText": "MR Miniapp",
+                "navigationBarBackgroundColor": "#f8f8f8"
+            }
+        },
+        {
+            "path": "pages/about/about",
+            "style": {
+                "navigationBarTitleText": "About",
+                "navigationBarBackgroundColor": "#f8f8f8"
+            }
+        }
+    ],
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#fff",
+        "backgroundColor": "#fff"
+    }
+}
